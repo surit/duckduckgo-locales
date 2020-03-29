@@ -23,14 +23,14 @@ msgstr ""
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
-msgstr ""
+msgstr "$800,000 गोपनीयताको दानमा!"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
-msgstr ""
+msgstr "%s बिलियन खोजी"
 
 msgid "%s blocked by safe search."
-msgstr ""
+msgstr "%s सुरक्षित खोजीद्वारा अवरुद्ध।"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
@@ -48,18 +48,18 @@ msgstr ""
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr ""
+msgstr "%s गोपनीयता दानमा!"
 
 msgid "%s km"
-msgstr ""
+msgstr "%s कि. मी."
 
 msgid "%s mi"
-msgstr ""
+msgstr "%s माईल"
 
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
 msgid "%s on %s"
-msgstr ""
+msgstr "%s मा %s"
 
 msgctxt "hackus"
 msgid "%s us."
@@ -77,16 +77,16 @@ msgstr "हामीलाई %s गरौँ।"
 
 msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
-msgstr ""
+msgstr "%s%s%s अरब खोजहरू"
 
 #. The placeholder here will be a bold number. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
 msgid "%s%s%s reviews"
-msgstr ""
+msgstr "%s%s%s समीक्षाहरू"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
-msgstr ""
+msgstr "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, र %sOkay%s थिच्नुहोस्"
 
 msgctxt "install-duckduckgo"
 msgid ""
